@@ -1,4 +1,4 @@
-[![MasterHead](https://www.kolaydata.com/wp-content/uploads/2016/04/programlama-dilleri-kapak-640x360.jpg)
+[![MasterHead](https://www.kolaydata.com/wp-content/uploads/2016/04/programlama-dilleri-kapak-640x360.jpg)]
 <h1 align="center">Hi 👋, I'm Halil KAYA</h1>
 <h3 align="center">A passionate full stack developer from Turkey.</h3>
 
